@@ -31,6 +31,7 @@ While this repository primarily serves as a resource for sharing information, yo
 
 ### Futures Frontend
 <br /><img src="./peaks/futures-frontend.png" alt="futures-frontend" width="900px"/>
+<br /><img src="./peaks/futures-frontend-home.png" alt="futures-frontend-home" width="900px"/>
 
 ## Disclaimer
 

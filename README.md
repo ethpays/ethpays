@@ -21,7 +21,7 @@ While this repository primarily serves as a resource for sharing information, yo
 
 ## Whitepaper
 
-[Ethpays Whitepaper](https://github.com/ethpays/ethpays/blob/main/official-documents/EthPays-WhitePaper.docx)
+[Ethpays Whitepaper](https://github.com/ethpays/ethpays/blob/main/official-documents/EthPays-WhitePaper.pdf)
 
 ## Diagrams
 

@@ -19,6 +19,10 @@ While this repository primarily serves as a resource for sharing information, yo
 - **Issues:** If you encounter any bugs or have suggestions for improvement, please submit an issue. Be sure to provide detailed information to help us address your concerns effectively.
 - **Pull Requests:** We appreciate contributions from the community. If you have code improvements, feature enhancements, or documentation updates, submit a pull request, and we'll review it accordingly.
 
+## Whitepaper
+
+[Ethpays Whitepaper](https://github.com/ethpays/ethpays/blob/main/official-documents/EthPays-WhitePaper.docx)
+
 ## Diagrams
 
 ### Futures | Ethpays

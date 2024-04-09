@@ -37,6 +37,7 @@ While this repository primarily serves as a resource for sharing information, yo
 <br /><img src="./peaks/futures-frontend.png" alt="futures-frontend" width="900px"/>
 <br /><img src="./peaks/futures-frontend-home.png" alt="futures-frontend-home" width="900px"/>
 <br /><img src="./peaks/futures-frontend-balance.png" alt="futures-frontend-home" width="900px"/>
+<br /><img src="./peaks/futures-frontend-balance_mobile.png" alt="futures-frontend-home" width="430px"/>
 
 ## Disclaimer
 

@@ -36,8 +36,10 @@ While this repository primarily serves as a resource for sharing information, yo
 ### Futures Frontend
 <br /><img src="./peaks/futures-frontend.png" alt="futures-frontend" width="900px"/>
 <br /><img src="./peaks/futures-frontend-home.png" alt="futures-frontend-home" width="900px"/>
-<br /><img src="./peaks/futures-frontend-balance.png" alt="futures-frontend-home" width="900px"/>
-<br /><img src="./peaks/futures-frontend-balance_mobile.png" alt="futures-frontend-home" width="430px"/>
+<br /><img src="./peaks/futures-frontend-balance.png" alt="futures-frontend-balance" width="900px"/>
+<br /><img src="./peaks/futures-frontend-balance-fees.png" alt="futures-frontend-fees" width="900px"/>
+<br /><img src="./peaks/futures-frontend-contract-details.png" alt="futures-frontend-contract-details" width="900px"/>
+<br /><img src="./peaks/futures-frontend-balance_mobile.png" alt="futures-frontend-balance_mobile" width="430px"/>
 
 ## Disclaimer
 
